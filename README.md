@@ -9,6 +9,7 @@
 [![AppVeyor](https://img.shields.io/appveyor/ci/nateberkopec/puma.svg)](https://ci.appveyor.com/project/nateberkopec/puma)
 [![Dependency Status](https://gemnasium.com/puma/puma.svg)](https://gemnasium.com/puma/puma)
 [![Code Climate](https://codeclimate.com/github/puma/puma.svg)](https://codeclimate.com/github/puma/puma)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fpuma.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fpuma?ref=badge_shield)
 
 Puma is a **simple, fast, threaded, and highly concurrent HTTP 1.1 server for Ruby/Rack applications** in development and production.
 
@@ -251,3 +252,6 @@ $ bundle exec rake
 ## License
 
 Puma is copyright Evan Phoenix and contributors, licensed under the BSD 3-Clause license. See the included LICENSE file for details.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FEZO801%2Fpuma.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FEZO801%2Fpuma?ref=badge_large)
